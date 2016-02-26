@@ -12,7 +12,7 @@ Print a few messages (e.g. Python is cool!).
 Print the current date and time. Also print it using % and using format().
 ---> see examples from 'Stringuri' section.
 """
-
+print "Python is cool"
 
 # Hints for date and time: datetime module for objects representing time,
 # strftime function for formatting
